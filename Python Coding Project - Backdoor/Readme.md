@@ -7,6 +7,10 @@
 - [Example](#example)
 - [Conclusion](#conclusion)
 
+## Important Note
+
+- This project is followed by tutorials from **Zaid from Z-Security** , from a Course Provided by Udemy.
+- [Course Link](https://www.udemy.com/course/complete-ethical-hacking-bootcamp-zero-to-mastery/?couponCode=GENAISALE24)
 ---
 
 ### Introduction <a name="introduction"></a>
